@@ -221,7 +221,9 @@ a {
 .text-white {
     color: #ffffff;
 }
-
+.text-black{
+    color: #333;
+}
 /* ANCHOR BUTTON */
 
 .btn {
